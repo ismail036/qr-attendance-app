@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17012997528",
+    "project_id": "qrcheck-f35ed",
+    "storage_bucket": "qrcheck-f35ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17012997528:android:47e1b704e3eec53f647fed",
+        "android_client_info": {
+          "package_name": "com.example.qrcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7BliIqWYEkhZWY6I9jmarB6D2lKBr7ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
