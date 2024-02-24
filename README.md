@@ -1,4 +1,4 @@
-# qrcheck
+# QR Attendance app
 
 A new Flutter project.
 
